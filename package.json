@@ -32,6 +32,7 @@
     "email": "sven.kannengiesser@gmail.com",
     "url": "http://www.sven-kannengiesser.com/"
   },
+  "license": "MIT",
   "licenses": [
     {
       "type": "MIT",

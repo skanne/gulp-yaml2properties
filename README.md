@@ -2,7 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/gulp-yaml2properties.svg)](http://badge.fury.io/js/gulp-yaml2properties)
 [![Build Status](https://travis-ci.org/skanne/gulp-yaml2properties.svg?branch=master)](https://travis-ci.org/skanne/gulp-yaml2properties)
-<!-- [![Dependency Status](https://david-dm.org/skanne/gulp-yaml2properties.svg)](https://david-dm.org/skanne/gulp-yaml2properties) -->
+[![Dependency Status](https://david-dm.org/skanne/gulp-yaml2properties.svg)](https://david-dm.org/skanne/gulp-yaml2properties)
 
 > A [Gulp](https://github.com/gulpjs/gulp) plugin to convert [YAML](https://en.wikipedia.org/wiki/YAML) to [.properties](https://en.wikipedia.org/wiki/.properties) using [js-yaml](https://github.com/nodeca/js-yaml).
 
