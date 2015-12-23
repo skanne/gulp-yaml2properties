@@ -1,7 +1,7 @@
 {
   "name": "gulp-yaml2properties",
+  "description": "Gulp plugin that converts YAML files to .properties files.",
   "version": "0.1.0",
-  "description": "Converts YAML files to .properties files",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
